@@ -96,13 +96,25 @@
 //     console.log(`You have ${yearsLeft} years left before you can drive.`)
 // }
 
-const birthYear = 1993;
+// const birthYear = 1993;
 
-let century;
-if (birthYear <= 2000) {
-    century = 20;
-} else {
-    century = 21;
-};
+// let century;
+// if (birthYear <= 2000) {
+//     century = 20;
+// } else {
+//     century = 21;
+// };
 
-console.log(century)
+// console.log(century)
+
+// const inputYear = '1991';
+// console.log(Number(inputYear));
+
+// console.log(inputYear + 18);
+// console.log(Number(inputYear) + 18);
+
+
+
+console.log('I am ' + 23 + ' years old');
+
+3
