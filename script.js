@@ -112,6 +112,8 @@
 // console.log(Number(inputYear));
 
 // console.log(inputYear + 18);
+
+
 // console.log(Number(inputYear) + 18);
 
 
